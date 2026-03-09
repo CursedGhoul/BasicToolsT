@@ -14,7 +14,7 @@ classifiers = [
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
 dependencies = ["soundfile",
-"sounddevice]
+"sounddevice"]
 
 [build-system]
 requires = ["hatchling"]
