@@ -1,5 +1,5 @@
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
+name = "BasicToolsT"
 version = "0.0.1"
 authors = [
   { name="CursedGhoul", email="noemail@email.com" },
