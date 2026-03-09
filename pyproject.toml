@@ -14,6 +14,10 @@ classifiers = [
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
 [project.urls]
 Homepage = "https://github.com/CursedGhoul/BasicToolsT"
 Issues = "https://github.com/CursedGhoul/BasicToolsT/issues"
